@@ -232,3 +232,4 @@ def get_redirect_uri(request):
 if __name__ == '__main__':
     app.debug = os.environ.get('FLASK_DEBUG', True)
     app.run(port=7000)
+    
