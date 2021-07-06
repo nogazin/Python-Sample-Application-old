@@ -1,5 +1,5 @@
 
-#auto test
+#auto test2
 from __future__ import absolute_import
 import json, os
 from urlparse import urlparse
